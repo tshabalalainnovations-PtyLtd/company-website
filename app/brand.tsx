@@ -13,7 +13,7 @@ export function Brand({ preload = false }: { preload?: boolean }) {
         preload={preload}
       />
       <span>
-        tshabalala
+        TSHABALALA
         <span className="brand-subtitle">INNOVATIONS</span>
       </span>
     </a>
